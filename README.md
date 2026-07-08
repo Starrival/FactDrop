@@ -21,7 +21,7 @@ I believe that the ability to learn efficiently is just as important as the tech
 
 ## Live Demo
 
-**Website:** https://Starrival.github.io/FactDrop/
+**Website:** https://Starrival.github.io/FactDrop/index.html
 
 ## Project Structure
 
